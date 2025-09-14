@@ -1,0 +1,27 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+venv/
+.env/
+.venv/
+env/
+
+# Streamlit 临时文件
+.streamlit/
+
+# PyCharm / JetBrains IDE
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 构建产物
+build/
+dist/
